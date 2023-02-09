@@ -1,0 +1,23 @@
+body {
+  background-color: cadetblue;
+}
+h1 {
+  text-align: center;
+  color: rgb(21, 45, 129);
+}
+h3 {
+  text-align: center;
+}
+.img-index {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+.navigations-link {
+  text-align: center;
+}
+
+.navigations-email {
+  text-align: center;
+}
